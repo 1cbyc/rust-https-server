@@ -53,3 +53,6 @@ coverage/
 # Local configuration
 config.local.toml
 config.local.yaml
+
+# Documentation (removed from GitHub)
+docs/
