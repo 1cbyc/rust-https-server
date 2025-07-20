@@ -40,6 +40,7 @@ logs/
 
 # Documentation build
 /docs/build/
+docs/*.md
 
 # Coverage reports
 coverage/
